@@ -15,7 +15,8 @@ Objectives
 IIT GUWAHATI 
 DEPARTMENT OF MATHEMATICS 
 MASTER OF SCIENCE (M.Sc.) - 3rd SEMESTER 
-Project Title:  Parking Lot Management Systems. 
+Project Title:  Parking Lot Management Systems.
+Project Report link:dbms_project_report.pdf
 Submitted By 
 Imran Hossain 
 Roll No: 232123110 
